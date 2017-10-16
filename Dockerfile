@@ -1,7 +1,7 @@
 FROM berlingskemedia/bm.docker.php7:4
 MAINTAINER Casper Bruun <cbm@berlingskemedia.dk>
 
-ENV REFRESHED_AT="2017-10-16 15:00:00"
+ENV REFRESHED_AT="2017-10-16 15:30:00"
 
 # Install NewRelic agent
 RUN echo 'deb http://apt.newrelic.com/debian/ newrelic non-free' > /etc/apt/sources.list.d/newrelic.list \
