@@ -1,4 +1,4 @@
-FROM berlingskemedia/bm.docker.php7:4
+FROM berlingskemedia/bm.docker.php7:6
 MAINTAINER Casper Bruun <cbm@berlingskemedia.dk>
 
 ENV REFRESHED_AT="2017-10-16 15:30:00"
